@@ -1,3 +1,5 @@
+https://github.com/user-attachments/assets/8a97ccf9-47e6-4786-b3b6-5ba9d8180b7a
+
 # FutureProofHomes
 
 Welcome to **FutureProofHomes**, where we build the future of smart homes with privacy-first AI-powered voice assistants. Our goal is to revolutionize the smart home experience by offering intelligent, privacy-respecting voice assistants that don't compromise on speed, security, or functionality.
