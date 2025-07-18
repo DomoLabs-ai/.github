@@ -1,5 +1,9 @@
 https://github.com/user-attachments/assets/8a97ccf9-47e6-4786-b3b6-5ba9d8180b7a
 
+[Build your own AI Voice Assistant and Multi-Room Music Smart Speaker](https://futureproofhomes.net/products/satellite1-pcb-dev-kit)
+
+<img width="4024" height="2211" alt="image" src="https://github.com/user-attachments/assets/78d22fd9-2e10-4a2d-9e40-ae513b50316e" />
+
 # FutureProofHomes
 
 Welcome to **FutureProofHomes**, where we build the future of smart homes with privacy-first AI-powered voice assistants. Our goal is to revolutionize the smart home experience by offering intelligent, privacy-respecting voice assistants that don't compromise on speed, security, or functionality.
