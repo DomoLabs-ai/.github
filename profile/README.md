@@ -1,8 +1,6 @@
-https://github.com/user-attachments/assets/8a97ccf9-47e6-4786-b3b6-5ba9d8180b7a
-
-[Build your own AI Voice Assistant and Multi-Room Music Smart Speaker](https://futureproofhomes.net/products/satellite1-pcb-dev-kit)
-
-<img width="4024" height="2211" alt="image" src="https://github.com/user-attachments/assets/78d22fd9-2e10-4a2d-9e40-ae513b50316e" />
+| [Get the Hardware Dev Kit](https://futureproofhomes.net/products/satellite1-pcb-dev-kit)        | [Build your own AI Powered Smart Speaker](https://docs.futureproofhomes.net/satellite1-squircle-enclosures/)        |
+|-----------------|-----------------|
+| <img width="400" alt="image" src="https://s7.ezgif.com/tmp/ezgif-73dfa8702a9544.gif" />       | <img width="400" alt="image" src="https://github.com/user-attachments/assets/78d22fd9-2e10-4a2d-9e40-ae513b50316e" />       |
 
 # FutureProofHomes
 
