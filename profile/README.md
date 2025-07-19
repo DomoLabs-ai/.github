@@ -1,4 +1,4 @@
-| [Get the Hardware Dev Kit](https://futureproofhomes.net/products/satellite1-pcb-dev-kit)        | [Build your own AI Powered Smart Speaker](https://docs.futureproofhomes.net/satellite1-squircle-enclosures/)        |
+| [Get the Satellite1 Dev Kit](https://futureproofhomes.net/products/satellite1-pcb-dev-kit)        | [Build your own Satellite1 AI Powered Smart Speaker](https://docs.futureproofhomes.net/satellite1-squircle-enclosures/)        |
 |-----------------|-----------------|
 | <img width="400" alt="image" src="https://github.com/user-attachments/assets/c6823493-437c-475b-a68b-6631543fb567" />       | <img width="400" alt="image" src="https://github.com/user-attachments/assets/78d22fd9-2e10-4a2d-9e40-ae513b50316e" />       |
 
