@@ -1,13 +1,13 @@
 https://github.com/user-attachments/assets/3cb9d1f7-fef5-4601-b16c-d7fb1cede10a
 
 
-# FutureProofHomes
+# DomoLabs.ai
 
-Welcome to **FutureProofHomes**, where we build the future of smart homes with privacy-first AI-powered voice assistants. Our goal is to revolutionize the smart home experience by offering intelligent, privacy-respecting voice assistants that don't compromise on speed, security, or functionality.
+Welcome to **DomoLabs.ai**, where we build the future of smart homes with privacy-first AI-powered voice assistants. Our goal is to revolutionize the smart home experience by offering intelligent, privacy-respecting voice assistants that don't compromise on speed, security, or functionality.
 
 ## 🌟 Our Vision
 
-At FutureProofHomes, we believe in the power of **private AI**. Our voice assistant solution is designed to provide a seamless and efficient smart home experience without harvesting your personal data or bombarding you with ads or product suggestions. We prioritize **privacy**, **transparency**, and **local operation**, ensuring that the most critical components of our solution are auditable and open-source.
+At DomoLabs.ai, we believe in the power of **private AI**. Our voice assistant solution is designed to provide a seamless and efficient smart home experience without harvesting your personal data or bombarding you with ads or product suggestions. We prioritize **privacy**, **transparency**, and **local operation**, ensuring that the most critical components of our solution are auditable and open-source.
 
 ### Key Features:
 - **Private AI Voice Assistance**: Control your home without worrying about data privacy. Our solution doesn’t sell your data or display ads.
@@ -17,16 +17,16 @@ At FutureProofHomes, we believe in the power of **private AI**. Our voice assist
 - **Powered by Advanced AI**: We utilize cutting-edge LLMs (Large Language Models) and vector databases for fast, intelligent responses.
 - **Open-Source Commitment**: We are dedicated to contributing back to the open-source community, ensuring that technology remains a force for good.
 
-## 🌍 Why FutureProofHomes?
+## 🌍 Why DomoLabs.ai?
 
 In a world where technology evolves rapidly, your smart home should adapt too. Our modular design ensures that your hardware remains up-to-date and avoids obsolescence. As a for-profit startup with a mission to benefit society, we aim to strike the perfect balance between innovation, privacy, and open-source collaboration.
 
 ## 🔗 Connect With Us
 
-- **Website**: [futureproofhomes.net](https://futureproofhomes.net)
-- **YouTube**: [FutureProofHomes YouTube Channel](https://www.youtube.com/@futureproofhomes)
-- **Documentation**: [FutureProofHomes Docs](https://docs.futureproofhomes.net/)
-- **Blog**: [Company Blog](https://futureproofhomes.net/blogs/news)
+- **Website**: [DomoLabs.ai.net](https://DomoLabs.ai.net)
+- **YouTube**: [DomoLabs.ai YouTube Channel](https://www.youtube.com/@DomoLabs.ai)
+- **Documentation**: [DomoLabs.ai Docs](https://docs.DomoLabs.ai.net/)
+- **Blog**: [Company Blog](https://DomoLabs.ai.net/blogs/news)
 - **X (formerly Twitter)**: [@aivoiceassist](https://x.com/aivoiceassist)
 - **Discord Community**: [Join our Discord](https://discord.com/invite/BeBjWEPzMV)
 
@@ -36,4 +36,7 @@ As part of our mission, we are actively seeking partnerships and collaborations 
 
 ---
 
-Thank you for supporting FutureProofHomes as we work towards a smarter, privacy-first future. Let's build the future, together.
+Thank you for supporting DomoLabs.ai as we work towards a smarter, privacy-first future. Let's build the future, together.
+
+---
+*Originally developed as part of FutureProofHomes, now maintained by [DomoLabs.ai](https://domolabs.ai).*
