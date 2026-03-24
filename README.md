@@ -1,3 +1,7 @@
+> **⚠️ ARCHIVED:** This repository has been archived. Active development has moved to a private internal repository.
+
+---
+
 https://github.com/user-attachments/assets/3cb9d1f7-fef5-4601-b16c-d7fb1cede10a
 
 
